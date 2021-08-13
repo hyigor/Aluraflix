@@ -1,6 +1,6 @@
 # Aluraflix
 
-API REST feito a partir de challange proposto pela Alura.
+API REST feito a partir de challenge proposto pela Alura.
 
 Por enquanto foi feito apenas o proposto para a primeira semana do challenge.
 
